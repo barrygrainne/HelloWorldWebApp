@@ -4,7 +4,7 @@
 
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hello World!this is Nttdata Application</h2>
 <% 
 	for(int i=1; i<=6; i++) {
 		out.println("<h" + i + ">H" + i + "</h" + ">");
